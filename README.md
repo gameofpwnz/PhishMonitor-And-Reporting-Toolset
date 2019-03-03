@@ -1,6 +1,9 @@
 # PhishMonitor-And-Reporting-Toolset
 PhishMonitor and Reporting Toolset
 
+PhishMonitor and Reporting Toolset was created by Jacob Giannantonio and then modified by GameOfPWNZ.
+  
+
 Will add more about usage soon!
 
 ```
