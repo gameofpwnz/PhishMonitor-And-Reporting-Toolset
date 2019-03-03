@@ -10,9 +10,9 @@ parser=argparse.ArgumentParser(
     description='PhishMonitor (Python Edition) by GameOfPWNZ and Jacob Giannantonio')
 parser.add_argument('-p', dest="PORT", type = int, help="Port Number For PhishMonitor")
 parser.add_argument('-s1', dest="SCENARIO1", help="Redirect Link for Scenario 1 (Put in Quotes - Ex: 'https://gameofpwnz.com' ")
-parser.add_argument('-s2', dest="SCENARIO2", help="Redirect Link for Scenario 1 (Put in Quotes - Ex: 'https://gameofpwnz.com' ")
-parser.add_argument('-s3', dest="SCENARIO3", help="Redirect Link for Scenario 1 (Put in Quotes - Ex: 'https://gameofpwnz.com' ")
-parser.add_argument('-s4', dest="SCENARIO4", help="Redirect Link for Scenario 1 (Put in Quotes - Ex: 'https://gameofpwnz.com' ")
+parser.add_argument('-s2', dest="SCENARIO2", help="Redirect Link for Scenario 2 (Put in Quotes - Ex: 'https://gameofpwnz.com' ")
+parser.add_argument('-s3', dest="SCENARIO3", help="Redirect Link for Scenario 3 (Put in Quotes - Ex: 'https://gameofpwnz.com' ")
+parser.add_argument('-s4', dest="SCENARIO4", help="Redirect Link for Scenario 4 (Put in Quotes - Ex: 'https://gameofpwnz.com' ")
 args=parser.parse_args()
 
 #### Time Variable ####
