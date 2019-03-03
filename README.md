@@ -26,7 +26,16 @@ Example:
 root@kali:~/projects/phishing# python3 phishmonitor.py -p 80 -s1 'https://gameofpwnz.com'
 Listening on localhost:80
 
+In the phishmonitor.py, make sure to change the targets!
 
+```
+targets = {
+	"S1-000": "ashton@gameofpwnz.com",
+	"S1-001": "gameofpwnz210@gmail.com",
+	"S2-000": "jacob@gameofpwnz.com",
+	"S2-001": "jmg@gameofpwnz.com",
+}
+```
 
   
     
