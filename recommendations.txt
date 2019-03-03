@@ -1,0 +1,26 @@
+<h3 style="font: 12px;">
+Recommendation 1
+</h3>
+</br>
+GameOfPWNZ recommends enhancing security awareness training.
+</br>
+</br>
+<b>
+References: 
+</b>
+</br>
+<a href="https://gameofpwnz.com">GameOfPWNZ: An Information Security Resource</a>
+</br>
+<h3 style="font: 12px;">
+Recommendation 2
+</h3>
+</br>
+GameOfPWNZ recommends enhancing security awareness training.
+</br>
+</br>
+<b>
+References: 
+</b>
+</br>
+<a href="https://gameofpwnz.com">GameOfPWNZ: An Information Security Resource</a>
+</br>
